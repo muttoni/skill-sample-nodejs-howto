@@ -1,4 +1,4 @@
-module.exports = {
+var recipes = {
     "RECIPE_EN_GB" : {
         "snow golem": "A snow golem can be created by placing a pumpkin on top of  two snow blocks on the ground.",
         "pillar quartz block": "A pillar of quartz can be obtained by placing a block of quartz on top of a block of quartz in mine craft.",
